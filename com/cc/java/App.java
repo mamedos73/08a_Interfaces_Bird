@@ -8,7 +8,7 @@ public class App {
         Bird bird = new Bird();
         output(bird.fly());
         output(bird.hasFeathers());
-
+        
     }
 
     public static void output(String outputStr) {
